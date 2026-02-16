@@ -1,0 +1,20 @@
+{
+  "name": "aishu_react",
+  "version": "1.0.0",
+  "description": "A react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aishsampathb/Aishu_React.git"
+  },
+  "keywords": [],
+  "author": "Aishwarya Sampath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aishsampathb/Aishu_React/issues"
+  },
+  "homepage": "https://github.com/aishsampathb/Aishu_React#readme"
+}
